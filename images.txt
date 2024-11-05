@@ -1,2 +1,1 @@
-controller:v1.11.2
-kube-webhook-certgen:v1.4.3
+ingress-nginx/kube-webhook-certgen:v1.4.3
